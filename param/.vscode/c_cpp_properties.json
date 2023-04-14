@@ -1,0 +1,31 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/kdel/catkin_ws/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/kdel/catkin_ws/src/fake_joint/fake_joint_driver/include/**",
+        "/home/kdel/catkin_ws/src/gazebo1_lecture/include/**",
+        "/home/kdel/catkin_ws/src/odom_listener/include/**",
+        "/home/kdel/catkin_ws/src/ros_tutorials/turtlesim/include/**",
+        "/home/kdel/catkin_ws/src/vis_lecture/include/**",
+        "/home/kdel/catkin_ws/src/viz_lecture/include/**",
+        "/home/kdel/catkin_ws/src/waypoints_publish/include/**",
+        "/home/kdel/catkin_ws/src/wheel_robot_gmapping/include/**",
+        "/home/kdel/catkin_ws/src/xarm_ros/xarm_api/include/**",
+        "/home/kdel/catkin_ws/src/xarm_ros/xarm_controller/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
